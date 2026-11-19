@@ -1,0 +1,6 @@
+{
+  "name": "KinLedger",
+  "description": "Family Expense Manager for tracking daily household spending, member-level budgets, spending alerts, and unnecessary expense detection.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
